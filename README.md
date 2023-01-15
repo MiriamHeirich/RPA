@@ -1,3 +1,2 @@
 # RPA
-Automação de Processos Web
-Automação utilizando Selenium 
+Automação de Processos Web utilizando Selenium 
